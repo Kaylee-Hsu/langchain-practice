@@ -1,12 +1,12 @@
 # langchain-practice
 
-1. Fill your OpenAI API key.
+## 1. Fill your OpenAI API key.
 
 ![image](https://github.com/Kaylee-Hsu/langchain-practice/assets/33709368/220099f1-7809-4184-83d7-7e175fd111dd)
 
-3. Run the following steps in notebook.
+## 2. Run the following steps in notebook.
 
-4. Run WebUI and makes conversation with the SalesGPT agent
+## 3. Run WebUI and makes conversation with the SalesGPT agent
 
 ![image](https://github.com/Kaylee-Hsu/langchain-practice/assets/33709368/51583d6b-04e9-4e86-a88f-8373873ebc24)
 ![image](https://github.com/Kaylee-Hsu/langchain-practice/assets/33709368/8fcfa9a3-fe11-4e98-a2e7-6d4aee3bd2a9)
