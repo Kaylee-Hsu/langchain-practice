@@ -2,7 +2,6 @@
 
 ## 1. Fill your OpenAI API key.
 
-![image](https://github.com/Kaylee-Hsu/langchain-practice/assets/33709368/220099f1-7809-4184-83d7-7e175fd111dd)
 
 ## 2. Run the following steps in notebook.
 
